@@ -6,7 +6,7 @@ THIS IS WHAT THE SCRIPT DOES:
 It is to be used for regression tests for Suricata IDPS -
 http://suricata-ids.org/
  
- It takes in 1 argument a directory where a pcap/rule pairs of files exist. 
+ It takes in 1 argument - a directory where a pcap/rule pairs of files exist. 
  Like so -
  2002031-001-sandnet-public-tp-01.pcap
  2002031.rules
