@@ -1,0 +1,2 @@
+SURICATA='/usr/bin/suricata'
+CONFIG='/etc/suricata/suricata.yaml'
